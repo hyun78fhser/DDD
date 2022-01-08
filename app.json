@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "DDD",
+  "description": "DDD",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/hyun78fhser/DDD",
+  "repository": "https://github.com/hyun78fhser/DDD",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
